@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    width: 562px;
+height: 818px;
+background: #FAFAFA;
+border: 1px solid #DCDCDC;
+border-radius: 20px;
+margin-left: 400px;
+}
+.AA {
+    width: 237.95px;
+height: 184.57px;
+margin-left: 155px;
+margin-top: 50px;
+}
+.title {
+    width: 273px;
+height: 40px;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #000000;
+margin-left: 60px;
+
+}
+hr {
+    width: 443px;
+height: 0px;
+border: 1px solid #DDDDDD;
+}
+p {
+    width: 443px;
+    height: 311px;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    color: #000000;
+    padding: 35px;
+    margin-left: 30px;
+}
+span {
+    width: 109px;
+height: 25px;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+color: #5076FF;
+margin-left: 280px;
+
+}
+
